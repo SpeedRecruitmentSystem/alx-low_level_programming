@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
 *main - entry point
-*return: retuns 0 (positive number)
+*Description: bettys stye
+*Return: Always 0 (Success)
 */
 int main(void)
 {
