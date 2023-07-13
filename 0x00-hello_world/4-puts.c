@@ -1,8 +1,7 @@
 #include<stdio.h>
 /**
-*alot is happening here
-*main - and it needs to be followed
-*return : retuns 0 (positive number)
+*main - entry point
+*return: retuns 0 (positive number)
 */
 int main(void)
 {
